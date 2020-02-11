@@ -3,4 +3,4 @@
 
 [Word embedding using Word2Vec](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordEmbeddingNN.pdf)
 
-[Word vectors using HAL, COALS and Glove +  Word vector evaluation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordVectosAndEvaluationMethods.pdf)
+[Word vectors using HAL, COALS and Glove +  Word vector evaluation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordVectorsAndEvaluationMethods.pdf)
