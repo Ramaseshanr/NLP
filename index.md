@@ -24,6 +24,7 @@
 ||[Recap and Connecting Bloom Taxonomy with Machine Learning](https://youtu.be/VV80xkKO2Zg)|
 ||[Introduction to Attention-based models](https://www.youtube.com/watch?v=v-prjPAaT2M)|
 ||[Jointly learning to align and translate](https://www.youtube.com/watch?v=1RUkQkHIAr0)|
+||[Discussion on some ideas in Question Answering](https://www.youtube.com/watch?v=dDcCbwYp-Cs)|
 ||[Typical NMT architectures and models for multilanguage translation](https://www.youtube.com/watch?v=KL5OletisX8)|
 ||[Beam Search](https://www.youtube.com/watch?v=5w1WFoSUJjQ)|
 ||[Variants of GD](https://www.youtube.com/watch?v=6-_9A-_u33E)|
