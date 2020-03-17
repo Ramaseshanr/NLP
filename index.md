@@ -19,4 +19,4 @@
 ||[Introduction to evaluation of Machine Translation](https://youtu.be/nE16_ljY8UI)
 ||[A short Discussion of the seminal paper on BLEU](https://youtu.be/eaKKAXhGppk)|
 ||[Demo on BLEU + other metrics](https://youtu.be/HmKdHuzMGo4)|
-||[Encoder-Decoder model for Neural Machine Translation](https://www.youtube.com/watch?v=navDexJs7i8)|
+|[Neural Machine Translation - NMT](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/NeuralMachineTranslation.pdf)|[Encoder-Decoder model for Neural Machine Translation](https://www.youtube.com/watch?v=navDexJs7i8)|
