@@ -20,7 +20,7 @@
 ||[A short Discussion of the seminal paper on BLEU](https://youtu.be/eaKKAXhGppk)|
 ||[Demo on BLEU + other metrics](https://youtu.be/HmKdHuzMGo4)|
 |[Neural Machine Translation - NMT](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/NeuralMachineTranslation.pdf)|[Encoder-Decoder model for Neural Machine Translation](https://www.youtube.com/watch?v=navDexJs7i8)|
-||[RNN Based Machine Translation]|(https://youtu.be/un7Qbsurmr4)|
+||[RNN Based Machine Translation](https://youtu.be/un7Qbsurmr4)|
 ||[Recap and Connecting Bloom Taxonomy with Machine Learning](https://youtu.be/VV80xkKO2Zg)|
 ||[Introduction to Attention-based models](https://www.youtube.com/watch?v=v-prjPAaT2M)|
 ||[Jointly learning to align and translate](https://www.youtube.com/watch?v=1RUkQkHIAr0)|
