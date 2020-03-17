@@ -20,7 +20,12 @@
 ||[A short Discussion of the seminal paper on BLEU](https://youtu.be/eaKKAXhGppk)|
 ||[Demo on BLEU + other metrics](https://youtu.be/HmKdHuzMGo4)|
 |[Neural Machine Translation - NMT](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/NeuralMachineTranslation.pdf)|[Encoder-Decoder model for Neural Machine Translation](https://www.youtube.com/watch?v=navDexJs7i8)|
-||RNN Based Machine Translation|(https://youtu.be/un7Qbsurmr4)|
+||[RNN Based Machine Translation]|(https://youtu.be/un7Qbsurmr4)|
 ||[Recap and Connecting Bloom Taxonomy with Machine Learning](https://youtu.be/VV80xkKO2Zg)|
 ||[Introduction to Attention-based models](https://www.youtube.com/watch?v=v-prjPAaT2M)|
 ||[Jointly learning to align and translate](https://www.youtube.com/watch?v=1RUkQkHIAr0)|
+||[Typical NMT architectures and models for multilanguage translation](https://www.youtube.com/watch?v=KL5OletisX8)|
+||[Beam Search](https://www.youtube.com/watch?v=5w1WFoSUJjQ)|
+||[Variants of GD](https://www.youtube.com/watch?v=6-_9A-_u33E)|
+||[Introduction to Conversation modeling](https://www.youtube.com/watch?v=xpQLR2rZrcA&t=1s)|
+||[A few examples in CM](https://www.youtube.com/watch?v=dwu5D0L6C_M)|
