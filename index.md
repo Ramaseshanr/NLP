@@ -15,3 +15,4 @@
 ||[Phrase based Translation Model](https://youtu.be/q9tNeUF3rYA)|
 ||[Symmetrization of Alignments](https://youtu.be/pmpBUHxT_f8)|
 ||[Extraction of Phrases](https://youtu.be/TNmQ7PydZ9c)|
+||[Learning/estimating the phrase probabilities using another Symmetrization example](https://youtu.be/peoON4737Tk)|
