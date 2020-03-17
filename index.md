@@ -18,4 +18,4 @@
 ||[Learning/estimating the phrase probabilities using another Symmetrization example](https://youtu.be/peoON4737Tk)|
 ||[Introduction to evaluation of Machine Translation](https://youtu.be/nE16_ljY8UI)
 ||[A short Discussion of the seminal paper on BLEU](https://youtu.be/eaKKAXhGppk)|
-||[Demo on BLEU](https://youtu.be/HmKdHuzMGo4)|
+||[Demo on BLEU + other metrics](https://youtu.be/HmKdHuzMGo4)|
