@@ -27,5 +27,5 @@
 ||[Typical NMT architectures and models for multilanguage translation](https://www.youtube.com/watch?v=KL5OletisX8)|
 ||[Beam Search](https://www.youtube.com/watch?v=5w1WFoSUJjQ)|
 ||[Variants of GD](https://www.youtube.com/watch?v=6-_9A-_u33E)|
-||[Introduction to Conversation modeling](https://www.youtube.com/watch?v=xpQLR2rZrcA&t=1s)|
+|[Conversation Modeling](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/ConversationalModeling.pdf)|[Introduction to Conversation modeling](https://www.youtube.com/watch?v=xpQLR2rZrcA&t=1s)|
 ||[A few examples in CM](https://www.youtube.com/watch?v=dwu5D0L6C_M)|
