@@ -14,3 +14,4 @@
 ||[IBM Model 2](https://www.youtube.com/watch?v=eTjH98rh6qE)|
 ||[Phrase based Translation Model](https://youtu.be/q9tNeUF3rYA)|
 ||[Symmetrization of Alignments](https://youtu.be/pmpBUHxT_f8)|
+||[Extraction of Phrases](https://youtu.be/TNmQ7PydZ9c)|
