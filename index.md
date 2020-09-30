@@ -9,6 +9,7 @@
 
 | Slides                      | Video              |
 |:------------------------------:|:--------------------------|
+|[Introduction to NLP](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)(https://www.youtube.com/watch?v=6lpyJznOPD0)|
 |[Statistical Machine Translation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)|[Machine Translation Model, Alignment Variables](https://www.youtube.com/watch?v=6lpyJznOPD0)|
 ||[Alignments Again!](https://www.youtube.com/watch?v=icemsA06GW8)|
 ||[IBM Model 1](https://www.youtube.com/watch?v=TyorHxpwt6I)|
