@@ -11,7 +11,7 @@
 |:------------------------------:|:--------------------------|
 |[Introduction to NLP](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/Introduction.pdf)|[Introduction](https://youtu.be/HuRKebyt9C4)|
 ||[Operations on a corpus](https://youtu.be/5hKxvh4RAsY)|
-||[Probability and NLP](https://youtu.be/TeU77elzfIM)|
+||[Probability and NLP](https://youtu.be/ldNemSbIL-c)|
 ||[Vector Space Model for Words](https://youtu.be/TeU77elzfIM)|
 |[Statistical Machine Translation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)|[Machine Translation Model, Alignment Variables](https://www.youtube.com/watch?v=6lpyJznOPD0)|
 ||[Alignments Again!](https://www.youtube.com/watch?v=icemsA06GW8)|
