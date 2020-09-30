@@ -19,7 +19,15 @@
 ||[Statistical PRoperties of Words - Part 01](https://youtu.be/pgRn2e7NanM)|
 ||[Statistical PRoperties of Words - Part 02](https://youtu.be/6tTeOun-3Sg)|
 ||[Statistical PRoperties of Words - Part 03](https://youtu.be/MqVi1jl3NGw)|
-|[Words to Vectors]()|[Vector Space Models for NLP](https://youtu.be/6Nz88LHOIdo)|
+|[Words to Vectors](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/Word2Vectors.pdf)|[Vector Space Models for NLP](https://youtu.be/6Nz88LHOIdo)|
+||[Document Similarity - Demo, Inverted index, Exercise ](https://youtu.be/EMUYQqk69HA)|
+||[Vector Representation of words ](https://youtu.be/gfn3u2SkBd0)|
+||[Contextual understanding of text ](https://youtu.be/FUOY2kK1Ndw)|
+||[Co-occurence matrix, n-grams](https://youtu.be/JrkaC6UK5YQ)|
+||[Collocations, Dense word Vectors ](https://youtu.be/cLGFX3cjNjA)|
+||[SVD, Dimensionality reduction, Demo ](https://youtu.be/u1o46P6Qe4M)|
+||[Query Processing ](https://youtu.be/Bw31wBjgagw)|
+||[Topic Modeling](https://youtu.be/cCIPO5KgU9o)|
 |[Statistical Machine Translation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)|[Machine Translation Model, Alignment Variables](https://www.youtube.com/watch?v=6lpyJznOPD0)|
 ||[Alignments Again!](https://www.youtube.com/watch?v=icemsA06GW8)|
 ||[IBM Model 1](https://www.youtube.com/watch?v=TyorHxpwt6I)|
