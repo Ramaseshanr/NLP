@@ -13,6 +13,21 @@
 ||[Operations on a corpus](https://youtu.be/5hKxvh4RAsY)|
 ||[Probability and NLP](https://youtu.be/ldNemSbIL-c)|
 ||[Vector Space Model for Words](https://youtu.be/TeU77elzfIM)|
+||[Sequence Learning](https://youtu.be/smKipDIYaNk)|
+||[Machine Translation](https://youtu.be/uOwnN1lzVqY)|
+||[Preprocessing](https://youtu.be/lhO3fBiMDag)|
+||[Statistical PRoperties of Words - Part 01](https://youtu.be/pgRn2e7NanM)|
+||[Statistical PRoperties of Words - Part 02](https://youtu.be/6tTeOun-3Sg)|
+||[Statistical PRoperties of Words - Part 03](https://youtu.be/MqVi1jl3NGw)|
+||[]()|
+||[]()|
+||[]()|
+||[]()|
+||[]()|
+||[]()|
+||[]()|
+||[]()|
+
 |[Statistical Machine Translation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)|[Machine Translation Model, Alignment Variables](https://www.youtube.com/watch?v=6lpyJznOPD0)|
 ||[Alignments Again!](https://www.youtube.com/watch?v=icemsA06GW8)|
 ||[IBM Model 1](https://www.youtube.com/watch?v=TyorHxpwt6I)|
