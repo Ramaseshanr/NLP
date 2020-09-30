@@ -11,6 +11,7 @@
 |:------------------------------:|:--------------------------|
 |[Introduction to NLP](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)|[Introduction](https://youtu.be/HuRKebyt9C4)|
 ||[Operations on a corpus](https://youtu.be/5hKxvh4RAsY)|
+||[](https://youtu.be/TeU77elzfIM)|
 |[Statistical Machine Translation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)|[Machine Translation Model, Alignment Variables](https://www.youtube.com/watch?v=6lpyJznOPD0)|
 ||[Alignments Again!](https://www.youtube.com/watch?v=icemsA06GW8)|
 ||[IBM Model 1](https://www.youtube.com/watch?v=TyorHxpwt6I)|
