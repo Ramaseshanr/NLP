@@ -55,6 +55,9 @@
 ||[Updating the weights using hierarchical softmax ](https://youtu.be/sXjZ6cAiGZs)|
 ||[Discussion on the results obtained from word2vec ](https://youtu.be/rRJQ9hFtjq0)|
 |[Recurrent Neural Network](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/RNNSession.pdf)|[Introduction](https://youtu.be/_eZjAkpGxDE)|
+||[ANN as a LM and its limitations ](https://youtu.be/-iRDHkPVrdk)|
+||[Sequence Learning and its applications ](https://youtu.be/tO5lDnTtd48)|
+||[]()|
 |[Statistical Machine Translation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)|[Machine Translation Model, Alignment Variables](https://www.youtube.com/watch?v=6lpyJznOPD0)|
 ||[Alignments Again!](https://www.youtube.com/watch?v=icemsA06GW8)|
 ||[IBM Model 1](https://www.youtube.com/watch?v=TyorHxpwt6I)|
