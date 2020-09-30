@@ -29,6 +29,16 @@
 ||[Query Processing ](https://youtu.be/Bw31wBjgagw)|
 ||[Topic Modeling](https://youtu.be/cCIPO5KgU9o)|
 |[NLP and Probability](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/NLPAndProbability.pdf)|[Examples for word prediction ](https://youtu.be/26hS6yiZW7U)|
+||[Introduction to Probability in the context of NLP ](https://youtu.be/IJ7Ptu18O6k)|
+||[Joint and conditional probabilities, independence with examples ](https://youtu.be/BKqSW3Kmeg0)|
+||[The definition of probabilistic language model ](https://youtu.be/H9LklQeQD3c)|
+||[Chain rule and Markov assumption ](https://youtu.be/0WS4NrjEaxA)|
+||[Generative Models ](https://youtu.be/q1qJuhQ4wNk)|
+||[Bigram and Trigram Language models -peeking indide the model building ](https://youtu.be/W9_7NjAQdmY)|
+||[Out of vocabulary words and curse of dimensionality ](https://youtu.be/J2c2hiPR1Ww)|
+||[Exercise](https://youtu.be/SCRaz7vS2Us)|
+||[Naive-Bayes Algorithm for classification ](https://youtu.be/Y0li8ou3MhQ)|
+||[]()|
 |[Statistical Machine Translation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)|[Machine Translation Model, Alignment Variables](https://www.youtube.com/watch?v=6lpyJznOPD0)|
 ||[Alignments Again!](https://www.youtube.com/watch?v=icemsA06GW8)|
 ||[IBM Model 1](https://www.youtube.com/watch?v=TyorHxpwt6I)|
