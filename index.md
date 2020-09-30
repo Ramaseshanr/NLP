@@ -1,4 +1,4 @@
-## Course presentations -   Natural Language Processing 
+## Course presentations -  Applied  Natural Language Processing 
 | Slides                      | Video              |
 |:------------------------------:|:--------------------------|
 |[Introduction to NLP](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/Introduction.pdf)|[Introduction](https://youtu.be/HuRKebyt9C4)|
