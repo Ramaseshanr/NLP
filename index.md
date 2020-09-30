@@ -86,3 +86,6 @@
 ||[A few examples in CM](https://www.youtube.com/watch?v=dwu5D0L6C_M)|
 ||[Some ideas to implement conversation modeling](https://www.youtube.com/watch?v=TJn4Kb6owgw)|
 |[A few more Word to vector algorithms](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordVectorsAndEvaluationMethods.pdf)|[Hyperspace Analogue to Language - HAL](https://youtu.be/YM8YJbFPmqo)|
+||[Correlated Occurrence Analogue to Lexical Semantic - COALS](https://youtu.be/mFiuscNDwT8)|
+||[Global Vectors - Glove](https://youtu.be/SZo-71DBX7k)|
+||[Evaluation of Word vectors ](https://youtu.be/n_CPX_ocfKE)|
