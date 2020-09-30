@@ -85,5 +85,4 @@
 |[Conversation Modeling](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/ConversationalModeling.pdf)|[Introduction to Conversation modeling](https://www.youtube.com/watch?v=xpQLR2rZrcA&t=1s)|
 ||[A few examples in CM](https://www.youtube.com/watch?v=dwu5D0L6C_M)|
 ||[Some ideas to implement conversation modeling](https://www.youtube.com/watch?v=TJn4Kb6owgw)|
-|[A few more Word to vector algorithms](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordVectorsAndEvaluationMethods.pdf)
-|[Hyperspace Analogue to Language - HAL](https://youtu.be/YM8YJbFPmqo)|
+|[A few more Word to vector algorithms](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordVectorsAndEvaluationMethods.pdf)|[Hyperspace Analogue to Language - HAL](https://youtu.be/YM8YJbFPmqo)|
