@@ -38,7 +38,7 @@
 ||[Out of vocabulary words and curse of dimensionality ](https://youtu.be/J2c2hiPR1Ww)|
 ||[Exercise](https://youtu.be/SCRaz7vS2Us)|
 ||[Naive-Bayes Algorithm for classification ](https://youtu.be/Y0li8ou3MhQ)|
-||[]()|
+|[Machine Learning](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/ArtificialNeuralNetwork.pdf)|[Introduction to Machine Learning ](https://youtu.be/bgLNFr15m9g)|
 |[Statistical Machine Translation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)|[Machine Translation Model, Alignment Variables](https://www.youtube.com/watch?v=6lpyJznOPD0)|
 ||[Alignments Again!](https://www.youtube.com/watch?v=icemsA06GW8)|
 ||[IBM Model 1](https://www.youtube.com/watch?v=TyorHxpwt6I)|
