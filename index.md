@@ -1,8 +1,6 @@
 ## Course presentations -   Natural Language Processing 
 [Word vectors using HAL, COALS and Glove +  Word vector evaluation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordVectorsAndEvaluationMethods.pdf)
 
-[RNN](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/RNNSession.pdf)
-
 | Slides                      | Video              |
 |:------------------------------:|:--------------------------|
 |[Introduction to NLP](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/Introduction.pdf)|[Introduction](https://youtu.be/HuRKebyt9C4)|
@@ -54,10 +52,18 @@
 ||[Mapping the output layer to Softmax ](https://youtu.be/O04GhFn8SFU)|
 ||[Updating the weights using hierarchical softmax ](https://youtu.be/sXjZ6cAiGZs)|
 ||[Discussion on the results obtained from word2vec ](https://youtu.be/rRJQ9hFtjq0)|
-|[Recurrent Neural Network](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/RNNSession.pdf)|[Introduction](https://youtu.be/_eZjAkpGxDE)|
+|[Recurrent Neural Network](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/RNNSession.pdf)|[Limitations of traditional Neural Networks](https://youtu.be/_eZjAkpGxDE)|
 ||[ANN as a LM and its limitations ](https://youtu.be/-iRDHkPVrdk)|
 ||[Sequence Learning and its applications ](https://youtu.be/tO5lDnTtd48)|
-||[]()|
+||[Introduction to RNN](https://youtu.be/QWjEyEHV_Rg)|
+||[Unrolled RNN ](https://youtu.be/sBy-leW6wxY)|
+||[RNN based Language Model](https://youtu.be/lDkEC7H88_A)|
+||[BPTT - Forward Pass](https://youtu.be/-gnwbn01yo0)|
+||[BPTT - Derivatives for W,V and U ](https://youtu.be/XoxsM5c8H-E)|
+||[BPTT - Exploding and vanishing gradient ](https://youtu.be/TURZHKGjcVo)|
+||[LSTM](https://youtu.be/D8m9AZQK6fc)|
+||[Truncated BPTT](https://youtu.be/v5FFzZTivwU)|
+||[GRU](https://youtu.be/6TRzUBEfFDs)|
 |[Statistical Machine Translation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)|[Machine Translation Model, Alignment Variables](https://www.youtube.com/watch?v=6lpyJznOPD0)|
 ||[Alignments Again!](https://www.youtube.com/watch?v=icemsA06GW8)|
 ||[IBM Model 1](https://www.youtube.com/watch?v=TyorHxpwt6I)|
