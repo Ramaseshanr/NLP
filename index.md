@@ -1,8 +1,4 @@
 ## Course presentations -   Natural Language Processing 
-[Artificial Neural Network - Introduction](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/ArtificialNeuralNetwork.pdf)
-
-[Word embedding using Word2Vec](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordEmbeddingNN.pdf)
-
 [Word vectors using HAL, COALS and Glove +  Word vector evaluation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordVectorsAndEvaluationMethods.pdf)
 
 [RNN](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/RNNSession.pdf)
@@ -46,7 +42,19 @@
 ||[Logical XOR](https://youtu.be/Yzc01h5YFGk)|
 ||[Activation Fucntions](https://youtu.be/giCJ2pzbnWY)|
 ||[Gradient Descent](https://youtu.be/JbtS0vE4BGs)|
-||[]()|
+|[Word embedding using Word2Vec](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordEmbeddingNN.pdf)|[Feedforward and Backpropagation Neural Network ](https://youtu.be/y0wNuFFPGuI)|
+||[Why Word2Vec?](https://youtu.be/DLue3c9LLoI)|
+||[What are CBOW and Skip-Gram Models? ](https://youtu.be/81kI-b5iPDE)|
+||[One word learning architecture ](https://youtu.be/SfM96VaAsIE)|
+||[Forward pass for Word2Vec ](https://youtu.be/qzdOtAi2Nr0)|
+||[CBOW and Skip Gram Models ](https://youtu.be/ehZ7sPn-mrg)|
+|[Word2Vec](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordEmbeddingNN.pdf)|[Building Skip-gram model using Python](https://youtu.be/WuCKx1gVo70)|
+||[Reduction of complexity - sub-sampling, negative sampling ](https://youtu.be/ot3IavXvDbs)|
+||[Binay tree, Hierarchical softmax ](https://youtu.be/vHNaRz0hdVw)|
+||[Mapping the output layer to Softmax ](https://youtu.be/O04GhFn8SFU)|
+||[Updating the weights using hierarchical softmax ](https://youtu.be/sXjZ6cAiGZs)|
+||[Discussion on the results obtained from word2vec ](https://youtu.be/rRJQ9hFtjq0)|
+|[Recurrent Neural Network](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/RNNSession.pdf)|[Introduction](https://youtu.be/_eZjAkpGxDE)|
 |[Statistical Machine Translation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)|[Machine Translation Model, Alignment Variables](https://www.youtube.com/watch?v=6lpyJznOPD0)|
 ||[Alignments Again!](https://www.youtube.com/watch?v=icemsA06GW8)|
 ||[IBM Model 1](https://www.youtube.com/watch?v=TyorHxpwt6I)|
