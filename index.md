@@ -39,6 +39,14 @@
 ||[Exercise](https://youtu.be/SCRaz7vS2Us)|
 ||[Naive-Bayes Algorithm for classification ](https://youtu.be/Y0li8ou3MhQ)|
 |[Machine Learning](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/ArtificialNeuralNetwork.pdf)|[Introduction to Machine Learning ](https://youtu.be/bgLNFr15m9g)|
+||[Linear Models for Claassification ](https://youtu.be/GnDaW8tQu7U)|
+||[Biological Neural Network ](https://youtu.be/Pi1_Mco4rhc)|
+||[Perceptron](https://youtu.be/dXZ3qoY_cTw)|
+||[Perceptron Learning](https://youtu.be/sp2HMPdn4vE)|
+||[Logical XOR](https://youtu.be/Yzc01h5YFGk)|
+||[Activation Fucntions](https://youtu.be/giCJ2pzbnWY)|
+||[Gradient Descent](https://youtu.be/JbtS0vE4BGs)|
+||[]()|
 |[Statistical Machine Translation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)|[Machine Translation Model, Alignment Variables](https://www.youtube.com/watch?v=6lpyJznOPD0)|
 ||[Alignments Again!](https://www.youtube.com/watch?v=icemsA06GW8)|
 ||[IBM Model 1](https://www.youtube.com/watch?v=TyorHxpwt6I)|
