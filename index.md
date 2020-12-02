@@ -1,8 +1,8 @@
-## Course presentations -  Applied  Natural Language Processing
+## Course presentations and Videos
 
 List of PDFs and Videos
 
-| Slides                      | Video              |
+| Slides                      | Videos              |
 |------------------------------|--------------------------|
 |[Introduction to NLP](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/Introduction.pdf)|[Introduction](https://youtu.be/HuRKebyt9C4)|
 ||[Operations on a corpus](https://youtu.be/5hKxvh4RAsY)|
