@@ -4,7 +4,7 @@ List of PDFs and Videos
 
 | Slides                      | Videos              |
 |------------------------------|--------------------------|
-|[Introduction to NLP](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/Introduction.pdf)|[Introduction](https://youtu.be/HuRKebyt9C4)|
+|[Introduction to NLP (W1)](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/Introduction.pdf)|[Introduction](https://youtu.be/HuRKebyt9C4)|
 ||[Operations on a corpus](https://youtu.be/5hKxvh4RAsY)|
 ||[Probability and NLP](https://youtu.be/ldNemSbIL-c)|
 ||[Vector Space Model for Words](https://youtu.be/TeU77elzfIM)|
@@ -14,7 +14,7 @@ List of PDFs and Videos
 ||[Statistical PRoperties of Words - Part 01](https://youtu.be/pgRn2e7NanM)|
 ||[Statistical PRoperties of Words - Part 02](https://youtu.be/6tTeOun-3Sg)|
 ||[Statistical PRoperties of Words - Part 03](https://youtu.be/MqVi1jl3NGw)|
-|[Words to Vectors](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/Word2Vectors.pdf)|[Vector Space Models for NLP](https://youtu.be/6Nz88LHOIdo)|
+|[Words to Vectors (W2)](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/Word2Vectors.pdf)|[Vector Space Models for NLP](https://youtu.be/6Nz88LHOIdo)|
 ||[Document Similarity - Demo, Inverted index, Exercise ](https://youtu.be/EMUYQqk69HA)|
 ||[Vector Representation of words ](https://youtu.be/gfn3u2SkBd0)|
 ||[Contextual understanding of text ](https://youtu.be/FUOY2kK1Ndw)|
@@ -23,7 +23,7 @@ List of PDFs and Videos
 ||[SVD, Dimensionality reduction, Demo ](https://youtu.be/u1o46P6Qe4M)|
 ||[Query Processing ](https://youtu.be/Bw31wBjgagw)|
 ||[Topic Modeling](https://youtu.be/cCIPO5KgU9o)|
-|[NLP and Probability](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/NLPAndProbability.pdf)|[Examples for word prediction ](https://youtu.be/26hS6yiZW7U)|
+|[NLP and Probability (W3)](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/NLPAndProbability.pdf)|[Examples for word prediction ](https://youtu.be/26hS6yiZW7U)|
 ||[Introduction to Probability in the context of NLP ](https://youtu.be/IJ7Ptu18O6k)|
 ||[Joint and conditional probabilities, independence with examples ](https://youtu.be/BKqSW3Kmeg0)|
 ||[The definition of probabilistic language model ](https://youtu.be/H9LklQeQD3c)|
@@ -33,7 +33,7 @@ List of PDFs and Videos
 ||[Out of vocabulary words and curse of dimensionality ](https://youtu.be/J2c2hiPR1Ww)|
 ||[Exercise](https://youtu.be/SCRaz7vS2Us)|
 ||[Naive-Bayes Algorithm for classification ](https://youtu.be/Y0li8ou3MhQ)|
-|[Machine Learning](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/ArtificialNeuralNetwork.pdf)|[Introduction to Machine Learning ](https://youtu.be/bgLNFr15m9g)|
+|[Machine Learning (W4)](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/ArtificialNeuralNetwork.pdf)|[Introduction to Machine Learning ](https://youtu.be/bgLNFr15m9g)|
 ||[Linear Models for Claassification ](https://youtu.be/GnDaW8tQu7U)|
 ||[Biological Neural Network ](https://youtu.be/Pi1_Mco4rhc)|
 ||[Perceptron](https://youtu.be/dXZ3qoY_cTw)|
@@ -41,19 +41,19 @@ List of PDFs and Videos
 ||[Logical XOR](https://youtu.be/Yzc01h5YFGk)|
 ||[Activation Fucntions](https://youtu.be/giCJ2pzbnWY)|
 ||[Gradient Descent](https://youtu.be/JbtS0vE4BGs)|
-|[Word embedding using Word2Vec](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordEmbeddingNN.pdf)|[Feedforward and Backpropagation Neural Network ](https://youtu.be/y0wNuFFPGuI)|
+|[Word embedding using Word2Vec (W5)](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordEmbeddingNN.pdf)|[Feedforward and Backpropagation Neural Network ](https://youtu.be/y0wNuFFPGuI)|
 ||[Why Word2Vec?](https://youtu.be/DLue3c9LLoI)|
 ||[What are CBOW and Skip-Gram Models? ](https://youtu.be/81kI-b5iPDE)|
 ||[One word learning architecture ](https://youtu.be/SfM96VaAsIE)|
 ||[Forward pass for Word2Vec ](https://youtu.be/qzdOtAi2Nr0)|
 ||[CBOW and Skip Gram Models ](https://youtu.be/ehZ7sPn-mrg)|
-|[Word2Vec](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordEmbeddingNN.pdf)|[Building Skip-gram model using Python](https://youtu.be/WuCKx1gVo70)|
+|[Word2Vec (W6)](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordEmbeddingNN.pdf)|[Building Skip-gram model using Python](https://youtu.be/WuCKx1gVo70)|
 ||[Reduction of complexity - sub-sampling, negative sampling ](https://youtu.be/ot3IavXvDbs)|
 ||[Binay tree, Hierarchical softmax ](https://youtu.be/vHNaRz0hdVw)|
 ||[Mapping the output layer to Softmax ](https://youtu.be/O04GhFn8SFU)|
 ||[Updating the weights using hierarchical softmax ](https://youtu.be/sXjZ6cAiGZs)|
 ||[Discussion on the results obtained from word2vec ](https://youtu.be/rRJQ9hFtjq0)|
-|[Recurrent Neural Network](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/RNNSession.pdf)|[Limitations of traditional Neural Networks](https://youtu.be/_eZjAkpGxDE)|
+|[Recurrent Neural Network (W7)](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/RNNSession.pdf)|[Limitations of traditional Neural Networks](https://youtu.be/_eZjAkpGxDE)|
 ||[ANN as a LM and its limitations ](https://youtu.be/-iRDHkPVrdk)|
 ||[Sequence Learning and its applications ](https://youtu.be/tO5lDnTtd48)|
 ||[Introduction to RNN](https://youtu.be/QWjEyEHV_Rg)|
@@ -65,7 +65,7 @@ List of PDFs and Videos
 ||[LSTM](https://youtu.be/D8m9AZQK6fc)|
 ||[Truncated BPTT](https://youtu.be/v5FFzZTivwU)|
 ||[GRU](https://youtu.be/6TRzUBEfFDs)|
-|[Statistical Machine Translation](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)|[Machine Translation Model, Alignment Variables](https://www.youtube.com/watch?v=6lpyJznOPD0)|
+|[Statistical Machine Translation (W8-9)](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/MT.pdf)|[Machine Translation Model, Alignment Variables](https://www.youtube.com/watch?v=6lpyJznOPD0)|
 ||[Alignments Again!](https://www.youtube.com/watch?v=icemsA06GW8)|
 ||[IBM Model 1](https://www.youtube.com/watch?v=TyorHxpwt6I)|
 ||[IBM Model 2](https://www.youtube.com/watch?v=eTjH98rh6qE)|
@@ -76,7 +76,7 @@ List of PDFs and Videos
 ||[Introduction to evaluation of Machine Translation](https://youtu.be/nE16_ljY8UI)
 ||[A short Discussion of the seminal paper on BLEU](https://youtu.be/eaKKAXhGppk)|
 ||[Demo on BLEU + other metrics](https://youtu.be/HmKdHuzMGo4)|
-|[Neural Machine Translation - NMT](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/NeuralMachineTranslation.pdf)|[Encoder-Decoder model for Neural Machine Translation](https://www.youtube.com/watch?v=navDexJs7i8)|
+|[Neural Machine Translation - NMT (W10)](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/NeuralMachineTranslation.pdf)|[Encoder-Decoder model for Neural Machine Translation](https://www.youtube.com/watch?v=navDexJs7i8)|
 ||[RNN Based Machine Translation](https://youtu.be/un7Qbsurmr4)|
 ||[Recap and Connecting Bloom Taxonomy with Machine Learning](https://youtu.be/VV80xkKO2Zg)|
 ||[Introduction to Attention-based models](https://www.youtube.com/watch?v=v-prjPAaT2M)|
@@ -85,10 +85,10 @@ List of PDFs and Videos
 ||[Typical NMT architectures and models for multilanguage translation](https://www.youtube.com/watch?v=KL5OletisX8)|
 ||[Beam Search](https://www.youtube.com/watch?v=5w1WFoSUJjQ)|
 ||[Variants of GD](https://www.youtube.com/watch?v=6-_9A-_u33E)|
-|[Conversation Modeling](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/ConversationalModeling.pdf)|[Introduction to Conversation modeling](https://www.youtube.com/watch?v=xpQLR2rZrcA&t=1s)|
+|[Conversation Modeling (W11)](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/ConversationalModeling.pdf)|[Introduction to Conversation modeling](https://www.youtube.com/watch?v=xpQLR2rZrcA&t=1s)|
 ||[A few examples in CM](https://www.youtube.com/watch?v=dwu5D0L6C_M)|
 ||[Some ideas to implement conversation modeling](https://www.youtube.com/watch?v=TJn4Kb6owgw)|
-|[A few more Word to vector algorithms](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordVectorsAndEvaluationMethods.pdf)|[Hyperspace Analogue to Language - HAL](https://youtu.be/YM8YJbFPmqo)|
+|[A few more Word to vector algorithms (W12)](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordVectorsAndEvaluationMethods.pdf)|[Hyperspace Analogue to Language - HAL](https://youtu.be/YM8YJbFPmqo)|
 ||[Correlated Occurrence Analogue to Lexical Semantic - COALS](https://youtu.be/mFiuscNDwT8)|
 ||[Global Vectors - Glove](https://youtu.be/SZo-71DBX7k)|
 ||[Evaluation of Word vectors ](https://youtu.be/n_CPX_ocfKE)|
