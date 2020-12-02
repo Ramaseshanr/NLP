@@ -1,4 +1,6 @@
-## Course presentations -  Applied  Natural Language Processing 
+## Course presentations -  Applied  Natural Language Processing
+
+List of PDFs and Videos
 
 | Slides                      | Video              |
 |------------------------------|--------------------------|
