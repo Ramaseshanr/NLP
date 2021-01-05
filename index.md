@@ -11,7 +11,7 @@ List of PDFs and Videos
 ||[Sequence Learning](https://youtu.be/smKipDIYaNk)|
 ||[Machine Translation](https://youtu.be/uOwnN1lzVqY)|
 ||[Preprocessing](https://youtu.be/lhO3fBiMDag)|
-|Statistical PRoperties(https://github.com/Ramaseshanr/NLP/blob/master/Text2Numbers.pdf)|[Statistical PRoperties of Words - Part 01](https://youtu.be/pgRn2e7NanM)|
+|[Statistical PRoperties](https://github.com/Ramaseshanr/NLP/blob/master/Text2Numbers.pdf)|[Statistical PRoperties of Words - Part 01](https://youtu.be/pgRn2e7NanM)|
 ||[Statistical PRoperties of Words - Part 02](https://youtu.be/6tTeOun-3Sg)|
 ||[Statistical PRoperties of Words - Part 03](https://youtu.be/MqVi1jl3NGw)|
 |[Words to Vectors (W2)](https://github.com/Ramaseshanr/anlp.presentation.github.io/blob/master/Word2Vectors.pdf)|[Vector Space Models for NLP](https://youtu.be/6Nz88LHOIdo)|
