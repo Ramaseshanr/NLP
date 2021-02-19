@@ -46,6 +46,7 @@ List of PDFs and Videos
 ||[What are CBOW and Skip-Gram Models? ](https://youtu.be/81kI-b5iPDE)|
 ||[One word learning architecture ](https://youtu.be/SfM96VaAsIE)|
 ||[Forward pass for Word2Vec ](https://youtu.be/qzdOtAi2Nr0)|
+||[Matrix operations - explaied](https://www.youtube.com/watch?v=R-2c8b7DdXI)|
 ||[CBOW and Skip Gram Models ](https://youtu.be/ehZ7sPn-mrg)|
 |[Word2Vec (W6)](https://github.com/Ramaseshanr/ramaseshanr.github.io/blob/master/WordEmbeddingNN.pdf)|[Building Skip-gram model using Python](https://youtu.be/WuCKx1gVo70)|
 ||[Reduction of complexity - sub-sampling, negative sampling ](https://youtu.be/ot3IavXvDbs)|
